@@ -3,11 +3,6 @@ os pacotes necessários já estão instalados, a configuração de conexão
 do Mongo no appsettings.json já está feita resta agora criar as classes
 de conexão e acesso, configurar os serviços o program e finalizar com o controller.
 
-Use o projeto da atividade integradora EtecShopAPI como base, você pode acessar
-o código desse projeto online, através do link:
-
-https://github.com/gallojunior/EtecShop-MongoDB/tree/master/EtecShopAPI
-
 A classe de dados deve se chamar Heroes e possuir a seguinte estrutura
 {
     "_id": {"$oid":"66f1f3a4985feca6dae0c2fd"},
